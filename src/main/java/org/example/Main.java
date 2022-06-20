@@ -5,8 +5,6 @@ public class Main {
 
         // Написать программу вычисления n -ного треугольного числа
 
-
-
                 System.out.println("Input member n : ");
                 Scanner scanner = new Scanner(System.in);
                 int x = scanner.nextInt();
@@ -25,4 +23,5 @@ public class Main {
                 System.out.println("triangular number " + x + " level = " + sum);
             }
         }
+
 
